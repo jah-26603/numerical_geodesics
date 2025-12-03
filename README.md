@@ -13,9 +13,16 @@ Example 1: Hyperbola
 
 Example 2: Sphere
 
-![Hyperbola](https://raw.githubusercontent.com/jah-26603/numerical_geodesics/main/trajecotryplotted.jpg)
+![Sphere](https://raw.githubusercontent.com/jah-26603/numerical_geodesics/main/trajecotryplotted.jpg)
 
 
 Example 3: Parabaloid
 
-![Hyperbola](https://raw.githubusercontent.com/jah-26603/numerical_geodesics/main/parabaloid%20example.jpg)
+![Parabaloid](https://raw.githubusercontent.com/jah-26603/numerical_geodesics/main/parabaloid%20example.jpg)
+
+
+
+Example 4: Sphere edge case (all paths are geodesics)
+
+![north2south](https://raw.githubusercontent.com/jah-26603/numerical_geodesics/main/north2south.jpg)
+
